@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,BOSS BROTHERS TV
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+#EXTINF:-1,CABALLEROS DEL ZODIACO
+http://planettvweb.com:8091/German/German/16438
+#EXTINF:-1,CD | Congo Planet Television, Congo Planet Television
+https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.m3u8
+#EXTINF:-1,CD | Congo Planet Television 2, Congo Planet Television 2
+https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist_1080.m3u8
+#EXTINF:-1,Chespirito
+http://planettvweb.com:8091/German/German/16423
+#EXTINF:-1,DRAGON BALL
+http://planettvweb.com:8091/German/German/16435
+#EXTINF:-1,Dragon Ball GT
+http://planettvweb.com:8091/German/German/16434
+#EXTINF:-1,Dragon Ball Z
+http://planettvweb.com:8091/German/German/16437
+#EXTINF:-1,Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
+#EXTINF:-1,Games of Thrones
+http://planettvweb.com:8091/German/German/16433
+#EXTINF:-1,Looney Tunes
+http://planettvweb.com:8091/German/German/16428
+#EXTINF:-1,Los Simpsons
+http://planettvweb.com:8091/German/German/16424
+#EXTINF:-1,MR. BEAN
+http://planettvweb.com:8091/German/German/16427
+#EXTINF:-1,Naruto
+http://planettvweb.com:8091/German/German/16436
+#EXTINF:-1,RASD TV
+https://5fa4275407563.streamlock.net:455/rasdtv/rasdtv/playlist.m3u8
+#EXTINF:-1,Scooby Doo
+http://planettvweb.com:8091/German/German/16429
+#EXTINF:-1,Tunisie Immobilier TV
+http://serv30.vintera.tv:8081/africa/tunisieimmob/playlist.m3u8
+#EXTINF:-1,Two And a Half Men 24/7
+http://planettvweb.com:8091/German/German/16432
