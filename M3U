@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:0 tvg-name="*Beware of scams*Our service is free of cost.*" tvg-language="English" tvg-country="US" tvg-id="Beware of scams. Our service is free of cost." tvg-logo="http://www.vernonhills.org/images/pages/N688/Scam-Alert.png" group-title="Top10",*Beware of scams*Our service is free of cost.* (Top10) (US) (English)
+https://archive.org/download/cCloud_20151126/cCloud.mp4
+
+#EXTINF:0 tvg-name="*Property of cCloudTV.ORG*" tvg-language="English" tvg-country="US" tvg-id="Property of cCloudTV.ORG" tvg-logo="http://media.comicbook.com/2015/09/baneposter2-by-sysmatic-149962.jpg" group-title="Top10",*Property of cCloudTV.ORG* (Top10) (US) (English)
+https://archive.org/download/cCloud_20151126/cCloud.mp4
+
+#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 07-14-2020 14:45:15 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 07-14-2020 14:45:15 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
+https://archive.org/download/cCloud_20151126/cCloud.mp4
+
+#EXTINF:0 tvg-name="Beto TV" tvg-language="English" tvg-country="US" tvg-id="BETO tv" tvg-logo="http://www.userlogos.org/files/logos/14505_deva/ccloud1.png" group-title="Lifestyle",Beto TV (Lifestyle) (US) (English)
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:0 tvg-name="BYU TV" tvg-language="English" tvg-country="US" tvg-id="BYU TV" tvg-logo="http://www.byutv.org/Content/images/logo-grayscale.png" group-title="Lifestyle",BYU TV (Lifestyle) (US) (English)
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/master.m3u8
+
+#EXTINF:0 tvg-name="Cnc3" tvg-language="English" tvg-country="TT" tvg-id="Cnc3" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs7bMoD5c7mf0WvrxdL8e3KrSoeCTQdIFF1dZwYo-SSjyaLNV1oZ5yMw" group-title="Entertainment",Cnc3 (Entertainment) (TT) (English)
+rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
+
+#EXTINF:0 tvg-name="Florida Ch" tvg-language="English" tvg-country="US" tvg-id="Florida Ch" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/FloridaChannel.png" group-title="Lifestyle",Florida Ch (Lifestyle) (US) (English)
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+
+#EXTINF:0 tvg-name="Smile of a Child" tvg-language="English" tvg-country="US" tvg-id="Smile of a Child" tvg-logo="http://www.impressivemedia.net/wp-content/uploads/2014/08/SOAC-e1409462705810.png" group-title="Family",Smile of a Child (Family) (US) (English)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
