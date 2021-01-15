@@ -28,7 +28,7 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/cThInij.png" group-title="",D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",DBM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="Music",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" group-title="",Ere TV
 http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
